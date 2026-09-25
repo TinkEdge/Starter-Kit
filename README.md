@@ -85,30 +85,22 @@ This kit is suitable for:
 ## 📁 Repository Structure
 
 
-Robotics-Starter-Kit/
-│
-├── README.md
-├── Manual/
-│   
-│
-├── Projects/
-│   ├── 01-LED-Glow/
-│   ├── 02-Paper-Circuit/
-│   ├── 03-LED-with-Switch/
-│   ├── 04-Alarm-with-Switch/
-│   ├── 05-Traffic-Light/
-│   ├── 06-Series-Paper-Circuit/
-│   ├── 07-Parallel-Paper-Circuit/
-│   ├── 08-Series-LED-Circuit/
-│   ├── 09-Parallel-LED-Circuit/
-│   ├── 10-Capacitor-Transistor/
-│   └── 11-Potentiometer-LED/
-│
-├── Images/
-│   └── project-images/
-│
-└── LICENSE
-
+README.md	Main project documentation and overview
+Manual/	Contains the Robotics Starter Kit manual
+Projects/	Contains individual project files and resources
+Projects/01-LED-Glow/	LED Glow project
+Projects/02-Paper-Circuit/	Paper Circuit project
+Projects/03-LED-with-Switch/	LED with Switch project
+Projects/04-Alarm-with-Switch/	Alarm with Switch project
+Projects/05-Traffic-Light/	Traffic Light project
+Projects/06-Series-Paper-Circuit/	Series Paper Circuit project
+Projects/07-Parallel-Paper-Circuit/	Parallel Paper Circuit project
+Projects/08-Series-LED-Circuit/	Series LED Circuit project
+Projects/09-Parallel-LED-Circuit/	Parallel LED Circuit project
+Projects/10-Capacitor-Transistor/	Capacitor & Transistor project
+Projects/11-Potentiometer-LED/	Potentiometer LED project
+Images/	Project images and visual resources
+Images/project-images/	Images of individual projects
 
 ## 🛡️ Safety
 
